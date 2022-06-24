@@ -10,7 +10,8 @@ Skills:  REACT / Redux / JS / HTML / CSS / MUI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' padding='10' background-color='red' height='40'>](https://github.com/SumonChandraTopu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumon-chandra//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SumonChandraForever)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sumon__Chandra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sumonchandra.netlify.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumonChandraTopu&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumonChandraTopu&show_icons=true)  
 
 
 
