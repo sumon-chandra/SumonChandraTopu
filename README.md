@@ -16,7 +16,7 @@ Skills:  REACT / Redux / JS / HTML / CSS / MUI
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SumonChandraTopu)  
 
-![GitHub metrics](https://metrics.lecoq.io/SumonChandraTopu)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/SumonChandraTopu)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SumonChandraTopu)  
 
